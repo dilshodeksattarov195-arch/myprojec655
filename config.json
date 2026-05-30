@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersync",
+        "uuid": 2517820,
+        "checksum": "r2u52u"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
